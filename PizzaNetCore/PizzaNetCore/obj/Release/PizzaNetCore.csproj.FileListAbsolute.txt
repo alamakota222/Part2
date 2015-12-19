@@ -1,0 +1,4 @@
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\bin\Release\PizzaNetCore.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\bin\Release\PizzaNetCore.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\obj\Release\PizzaNetCore.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\obj\Release\PizzaNetCore.pdb

@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\bin\Debug\PizzaNetCore.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\bin\Debug\PizzaNetCore.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\obj\Debug\PizzaNetCore.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\obj\Debug\PizzaNetCore.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\PizzaNetCore\obj\Debug\PizzaNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\PizzaNetCore\bin\Debug\PizzaNetCore.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\PizzaNetCore\bin\Debug\PizzaNetCore.pdb
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\PizzaNetCore\obj\Debug\PizzaNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\PizzaNetCore\obj\Debug\PizzaNetCore.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\PizzaNetCore\obj\Debug\PizzaNetCore.pdb

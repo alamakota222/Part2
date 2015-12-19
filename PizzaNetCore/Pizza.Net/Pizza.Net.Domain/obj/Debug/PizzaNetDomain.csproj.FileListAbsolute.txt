@@ -1,0 +1,20 @@
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\Pizza.Net.Domain.dll.config
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\Pizza.Net.Domain.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\Pizza.Net.Domain.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\obj\Debug\Pizza.Net.Domain.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\obj\Debug\Pizza.Net.Domain.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\obj\Debug\PizzaNetDomain.csprojResolveAssemblyReference.cache
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\Pizza.Net.Domain.dll.config
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\Pizza.Net.Domain.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\Pizza.Net.Domain.pdb
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\obj\Debug\PizzaNetDomain.csprojResolveAssemblyReference.cache
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\obj\Debug\Pizza.Net.Domain.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net.Domain\obj\Debug\Pizza.Net.Domain.pdb

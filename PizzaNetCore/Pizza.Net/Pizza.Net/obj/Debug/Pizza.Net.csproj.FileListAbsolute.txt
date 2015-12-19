@@ -1,0 +1,260 @@
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.config
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.manifest
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.application
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.Domain.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.Domain.pdb
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.xml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderFinalizator\OrderFinalizator.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientsPage\ClientsPage.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasPage\PizzasPage.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\IngredientsTable.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\App.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.cache
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.lref
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\App.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderFinalizator\OrderFinalizator.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientsPage\ClientsPage.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasPage\PizzasPage.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Styles.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\IngredientsTable.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\Styles.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.baml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.g.resources
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.Properties.Resources.resources
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe.manifest
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.application
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.pdb
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.config
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.manifest
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.application
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.Domain.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.Domain.pdb
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.xml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.xml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\LoginPage\LoginPage.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderFinalizator\OrderFinalizator.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\RegisterPage\RegisterPage.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\LoginWindow.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientsPage\ClientsPage.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasPage\PizzasPage.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\IngredientsTable.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\App.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.cache
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.lref
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\App.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\LoginPage\LoginPage.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderFinalizator\OrderFinalizator.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\RegisterPage\RegisterPage.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\LoginWindow.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientsPage\ClientsPage.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasPage\PizzasPage.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Styles.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\IngredientsTable.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\Styles.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.baml
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.g.resources
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.Properties.Resources.resources
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe.manifest
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.application
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.pdb
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.pdb
+C:\Users\John\Desktop\NET\PizzaNetWebAPI\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.config
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientDataPage\ClientDataPage.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\LoginPage\LoginPage.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\RegisterPage\RegisterPage.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\LoginWindow.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\App.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.cache
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.lref
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.manifest
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.application
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\App.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientDataPage\ClientDataPage.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\LoginPage\LoginPage.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\RegisterPage\RegisterPage.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\LoginWindow.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Styles.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\Styles.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.baml
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.g.resources
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.Properties.Resources.resources
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe.manifest
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.application
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\PizzaNetCore.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\PizzaNetCore.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\ChangePasswordWindow.g.cs
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\ChangePasswordWindow.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe.config
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.exe
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.pdb
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csprojResolveAssemblyReference.cache
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientDataPage\ClientDataPage.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\LoginPage\LoginPage.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\RegisterPage\RegisterPage.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\ChangePasswordWindow.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\LoginWindow.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\App.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.cache
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net_MarkupCompile.lref
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.exe
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Pizza.Net.pdb
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\PizzaNetCore.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\PizzaNetCore.pdb
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\MahApps.Metro.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\App.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\ClientDataPage\ClientDataPage.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\LoginPage\LoginPage.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Orders\OrdersPage.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderSubmit\OrderSubmit.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\PizzasInOrderCreator\PizzasInOrderCreator.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\RegisterPage\RegisterPage.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\ClientsTable.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\ChangePasswordWindow.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\LoginWindow.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\MainApplicationWindow.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\Styles.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\OrdersTable.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\PizzasTable.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\SizesTable.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Tables\Styles.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Pages\OrderCreator\OrderCreator.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Screens\Windows\OrdersHistory.baml
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.g.resources
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.Properties.Resources.resources
+C:\Users\Jasiu\Desktop\asd\PizzaNet2 - Copy (2)\PizzaNetCore\Pizza.Net\Pizza.Net\obj\Debug\Pizza.Net.csproj.GenerateResource.Cache

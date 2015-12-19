@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\EntityFramework.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\Pizza.Net.Domain.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\Pizza.Net.exe
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\Pizza.Net.Domain.pdb
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\EntityFramework.xml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\obj\Debug\Pizza.Net.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\obj\Debug\Pizza.Net.Tests.dll
+C:\Users\John\Desktop\PizzaNetFinal\Pizza.Net\Pizza.Net.Tests\obj\Debug\Pizza.Net.Tests.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Tests\obj\Debug\Pizza.Net.Tests.dll
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Tests\obj\Debug\Pizza.Net.Tests.pdb
+C:\Users\John\Desktop\PizzaNet2\PizzaNetCore\Pizza.Net\Pizza.Net.Tests\obj\Debug\Pizza.Net.Tests.csprojResolveAssemblyReference.cache
